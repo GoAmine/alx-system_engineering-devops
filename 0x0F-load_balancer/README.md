@@ -1,1 +1,2 @@
-0x0F. Load balancer
+#!/bin/bash
+discrep 0x02. Shell, I/O Redirections and filters
